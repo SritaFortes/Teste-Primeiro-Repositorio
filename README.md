@@ -1,2 +1,4 @@
-# Teste-primeiro-repositorio
- Primeiro Repositorio versionado do curso de git e github
+# Teste Primeiro Repositório
+ Primeiro Repositório versionado do curso de git e github
+
+Repositório criado em aula ao vivo!
